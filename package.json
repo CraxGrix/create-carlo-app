@@ -5,11 +5,11 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "carlo": "~0.9.45"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts build && node build/luanch.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
