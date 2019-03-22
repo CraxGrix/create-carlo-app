@@ -3,9 +3,9 @@ This project was bootstrapped with [Create Carlo App](https://github.com/GoogleC
 ## Available Scripts
 
 In the project directory, you can run:
-### `npm install`
-
-### `npm start`
+`npm install`
+and
+`npm start`
 
 
 
